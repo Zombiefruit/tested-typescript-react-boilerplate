@@ -1,5 +1,5 @@
-# Tested Typescript Boilerplate
-A minimal boilerplate that supports in-browser and node tests. 
+# Tested Typescript React Boilerplate
+A minimal boilerplate that supports in-browser and node tests of React components.
 
 ## Install
 Run `yarn`
